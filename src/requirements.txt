@@ -1,0 +1,7 @@
+uvicorn==0.15.0
+fastapi==0.68.1
+elasticsearch==7.14.1
+aioredis==2.0.0
+aiohttp==3.7.4.post0
+orjson==3.6.3
+fastapi-cache2==0.1.6
